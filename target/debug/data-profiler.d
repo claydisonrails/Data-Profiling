@@ -1,0 +1,1 @@
+C:\development\projetos\DataProfiler\data-profiler\target\debug\data-profiler.exe: C:\development\projetos\DataProfiler\data-profiler\src\main.rs C:\development\projetos\DataProfiler\data-profiler\src\reader.rs C:\development\projetos\DataProfiler\data-profiler\src\report.rs C:\development\projetos\DataProfiler\data-profiler\src\stats.rs

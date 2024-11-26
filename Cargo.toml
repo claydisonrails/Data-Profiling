@@ -1,0 +1,12 @@
+[package]
+name = "data-profiler"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csv = "1.2"           # Para leitura de arquivos CSV
+serde = { version = "1.0", features = ["derive"] } # Para serialização e manipulação de dados
+serde_json = "1.0"    # Para suporte a arquivos JSON
+statrs = "0.15"       # Operações matemáticas e estatísticas
+tabled = "0.8"        # Tabelas formatadas no terminal
+indicatif = "0.17"    # Barra de progresso
